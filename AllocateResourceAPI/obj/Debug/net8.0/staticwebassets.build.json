@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6o2t5zmV+DePmhGVJxDV3O7x7QPoNOAe5jgpr3MNZUc=",
+  "Source": "AllocateResourceAPI",
+  "BasePath": "_content/AllocateResourceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

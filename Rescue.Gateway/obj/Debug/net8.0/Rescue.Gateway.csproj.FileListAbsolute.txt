@@ -1,0 +1,112 @@
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\appsettings.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\Ocelot.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\Rescue.Gateway.staticwebassets.endpoints.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\Rescue.Gateway.exe
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\Rescue.Gateway.deps.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\Rescue.Gateway.runtimeconfig.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\Rescue.Gateway.dll
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\Rescue.Gateway.pdb
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\Ocelot.dll
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\obj\Debug\net8.0\Rescue.Gateway.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\obj\Debug\net8.0\Rescue.Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\obj\Debug\net8.0\Rescue.Gateway.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\obj\Debug\net8.0\Rescue.Gateway.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\obj\Debug\net8.0\Rescue.Gateway.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\obj\Debug\net8.0\Rescue.Gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\obj\Debug\net8.0\Rescue.Gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\obj\Debug\net8.0\Rescue.Gateway.sourcelink.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\obj\Debug\net8.0\scopedcss\bundle\Rescue.Gateway.styles.css
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\obj\Debug\net8.0\staticwebassets\msbuild.Rescue.Gateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\obj\Debug\net8.0\staticwebassets\msbuild.Rescue.Gateway.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\obj\Debug\net8.0\staticwebassets\msbuild.build.Rescue.Gateway.props
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Rescue.Gateway.props
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Rescue.Gateway.props
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\obj\Debug\net8.0\Rescue.G.822A7915.Up2Date
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\obj\Debug\net8.0\Rescue.Gateway.dll
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\obj\Debug\net8.0\refint\Rescue.Gateway.dll
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\obj\Debug\net8.0\Rescue.Gateway.pdb
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\obj\Debug\net8.0\Rescue.Gateway.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\Rescue.Gateway\obj\Debug\net8.0\ref\Rescue.Gateway.dll
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\appsettings.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\Ocelot.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\Rescue.Gateway.staticwebassets.endpoints.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\Rescue.Gateway.exe
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\Rescue.Gateway.deps.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\Rescue.Gateway.runtimeconfig.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\Rescue.Gateway.dll
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\Rescue.Gateway.pdb
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\Ocelot.dll
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\obj\Debug\net8.0\Rescue.Gateway.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\obj\Debug\net8.0\Rescue.Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\obj\Debug\net8.0\Rescue.Gateway.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\obj\Debug\net8.0\Rescue.Gateway.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\obj\Debug\net8.0\Rescue.Gateway.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\obj\Debug\net8.0\Rescue.Gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\obj\Debug\net8.0\Rescue.Gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\obj\Debug\net8.0\Rescue.Gateway.sourcelink.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\obj\Debug\net8.0\scopedcss\bundle\Rescue.Gateway.styles.css
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\obj\Debug\net8.0\staticwebassets\msbuild.Rescue.Gateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\obj\Debug\net8.0\staticwebassets\msbuild.Rescue.Gateway.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\obj\Debug\net8.0\staticwebassets\msbuild.build.Rescue.Gateway.props
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Rescue.Gateway.props
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Rescue.Gateway.props
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\obj\Debug\net8.0\Rescue.G.822A7915.Up2Date
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\obj\Debug\net8.0\Rescue.Gateway.dll
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\obj\Debug\net8.0\refint\Rescue.Gateway.dll
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\obj\Debug\net8.0\Rescue.Gateway.pdb
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\obj\Debug\net8.0\Rescue.Gateway.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\Rescue.Gateway\obj\Debug\net8.0\ref\Rescue.Gateway.dll

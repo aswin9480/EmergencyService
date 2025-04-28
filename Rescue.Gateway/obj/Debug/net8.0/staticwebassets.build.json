@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "gSUpvl7d57W7ohMv7Q+TerDtRvsy7HWxwTaIbnal9P4=",
+  "Source": "Rescue.Gateway",
+  "BasePath": "_content/Rescue.Gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

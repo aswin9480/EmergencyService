@@ -1,0 +1,111 @@
+[
+  {
+    "ContainingType": "AllocateResourceAPI.Controllers.ResourceAllocatedController",
+    "Method": "GetResourceAllocations",
+    "RelativePath": "api/ResourceAllocated",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[AllocateResourceAPI.Models.ResourceAllocated, AllocateResourceAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AllocateResourceAPI.Controllers.ResourceAllocatedController",
+    "Method": "PostResourceAllocation",
+    "RelativePath": "api/ResourceAllocated",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "resourceAllocated",
+        "Type": "AllocateResourceAPI.Models.ResourceAllocated",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AllocateResourceAPI.Models.ResourceAllocated",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AllocateResourceAPI.Controllers.ResourceAllocatedController",
+    "Method": "GetResourceAllocation",
+    "RelativePath": "api/ResourceAllocated/{allocationId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "allocationId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AllocateResourceAPI.Models.ResourceAllocated",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AllocateResourceAPI.Controllers.ResourceAllocatedController",
+    "Method": "PutResourceAllocation",
+    "RelativePath": "api/ResourceAllocated/{allocationId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "allocationId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "resourceAllocated",
+        "Type": "AllocateResourceAPI.Models.ResourceAllocated",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AllocateResourceAPI.Controllers.ResourceAllocatedController",
+    "Method": "DeleteResourceAllocation",
+    "RelativePath": "api/ResourceAllocated/{allocationId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "allocationId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

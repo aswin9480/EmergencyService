@@ -1,0 +1,63 @@
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\AllocateResourceAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\ResourceAvailable\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\VictimAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\AllocateResourceAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\ResourceAvailable\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\VictimAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\AllocateResourceAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\ResourceAvailable\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\VictimAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\AllocateResourceAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\ResourceAvailable\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\VictimAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\AllocateResourceAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\ResourceAvailable\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\VictimAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\AllocateResourceAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\ResourceAvailable\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\VictimAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\AllocateResourceAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\ResourceAvailable\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\VictimAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\AllocateResourceAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\ResourceAvailable\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\VictimAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\AllocateResourceAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\ResourceAvailable\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\VictimAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\AllocateResourceAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\ResourceAvailable\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\VictimAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\AllocateResourceAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\ResourceAvailable\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\VictimAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\AllocateResourceAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\ResourceAvailable\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\VictimAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\AllocateResourceAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\ResourceAvailable\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Thushar345\USTCapstoneProject\Rescueoperation\VictimAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\AllocateResourceAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\ResourceAvailable\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\VictimAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\AllocateResourceAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\ResourceAvailable\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\VictimAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\AllocateResourceAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\ResourceAvailable\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\VictimAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\AllocateResourceAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\ResourceAvailable\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\VictimAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\AllocateResourceAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\ResourceAvailable\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\VictimAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\AllocateResourceAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\ResourceAvailable\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\VictimAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\AllocateResourceAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\ResourceAvailable\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\VictimAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\AllocateResourceAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\ResourceAvailable\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\Project No-7\USTCapstoneProject\EmergencyService\VictimAPI\obj\Debug\net8.0\staticwebassets.build.json

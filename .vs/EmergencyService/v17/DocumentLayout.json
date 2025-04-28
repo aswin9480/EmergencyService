@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Project No-7\\USTCapstoneProject\\EmergencyService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF81F2D-DE91-48F5-8613-DD1B36C888DB}|AuthAPI\\AuthAPI.csproj|c:\\users\\administrator\\source\\repos\\project no-7\\ustcapstoneproject\\emergencyservice\\authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF81F2D-DE91-48F5-8613-DD1B36C888DB}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BAA9F9-FA78-458C-A9EB-C869058C1E10}|Rescue.Gateway\\Rescue.Gateway.csproj|c:\\users\\administrator\\source\\repos\\project no-7\\ustcapstoneproject\\emergencyservice\\rescue.gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87BAA9F9-FA78-458C-A9EB-C869058C1E10}|Rescue.Gateway\\Rescue.Gateway.csproj|solutionrelative:rescue.gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Project No-7\\USTCapstoneProject\\EmergencyService\\AuthAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Project No-7\\USTCapstoneProject\\EmergencyService\\AuthAPI\\Program.cs",
+              "RelativeToolTip": "AuthAPI\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T08:58:26.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ocelot.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Project No-7\\USTCapstoneProject\\EmergencyService\\Rescue.Gateway\\Ocelot.json",
+              "RelativeDocumentMoniker": "Rescue.Gateway\\Ocelot.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Project No-7\\USTCapstoneProject\\EmergencyService\\Rescue.Gateway\\Ocelot.json",
+              "RelativeToolTip": "Rescue.Gateway\\Ocelot.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T07:14:53.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

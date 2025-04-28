@@ -1,0 +1,31 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "AuthAPI\\AuthAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "VictimAPI\\VictimAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ResourceAvailable\\ResourceAvailableAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AggregatorService\\AggregatorService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AllocateResourceAPI\\AllocateResourceAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Rescue.Gateway\\Rescue.Gateway.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

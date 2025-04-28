@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "RGRsqMVqHxB+3mAJdxeThLVQ2saBrMS3lGfF7ggKt/k=",
+  "Source": "ResourceAvailableAPI",
+  "BasePath": "_content/ResourceAvailableAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
